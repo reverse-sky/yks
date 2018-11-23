@@ -19,7 +19,8 @@
 
 -------------------------------
 ##### 전공 수강과목
-* 오픈소스리눅스  ![putty_icon](putty_icon.png)  ![putty](putty.png)
+![putty_icon](putty_icon.png)
+* 오픈소스리눅스    ![putty](putty.PNG)
 * 자바  
 * 파이썬
 * _(new) 선형대수학_
