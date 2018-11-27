@@ -17,15 +17,19 @@
 
 -------------------------------
 ##### 전공 수강과목
-![putty_icon](putty_icon.png) ![putty](putty.PNG)
->* ##오픈소스리눅스  
+
+![putty_icon](putty_icon.png) ![putty](putty.PNG)  
+>* ##오픈소스리눅스
 >>__-putty명령어 사용법과 오픈소스가 무엇인가에 대해 배웠다.__  
 
 ![자바 아이콘](java_icon.jpg)
 
 >* ##자바  
 >>![자바소스](java.PNG) ![자바 별](java2.PNG)
+>>>__현재 파일 입출력 까지 배웠다.__
 >* ##파이썬
+>>![파이썬](파이썬.png)(3)
+>>> __기본적인 명령어와 사용법을 배웠다.__
 >* _(new) 선형대수학_
 ----------------
 ##### 자격증
@@ -44,3 +48,4 @@
 ##### 사진 및 출처
 (1) http://www.alzio.co.kr/contents/Category_Main.php?gb=2&dp1=138&dp2=571
 (2)https://ko.wikipedia.org/wiki/R_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4)
+(3)https://m.blog.naver.com/PostView.nhn?blogId=complusblog&logNo=221134149677&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
